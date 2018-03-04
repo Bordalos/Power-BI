@@ -1,8 +1,8 @@
-# Power-BI
-My Power BI project repository
+# Power-BI-series
+Repository for Power BI Series files
 
 Hi folks,
-This is my git repository for Power BI stiff. 
+Here you can find the files related to Bordalos.com Power BI Series  
 For more details about me and my work visit https://bordalos.com
 
 
