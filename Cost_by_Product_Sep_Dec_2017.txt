@@ -1,0 +1,67 @@
+Shop	Salesperson	Date	Product	Total Cost	Quantity
+Chicago	Claire	12/31/2017	Bed	6818.181818	15
+Chicago	Claire	12/31/2017	Chair	2931.034483	50
+Chicago	Claire	12/31/2017	Sofa	6896.551724	25
+Chicago	Claire	12/31/2017	Table	1920	12
+London	Juan	12/31/2017	Sofa	10484.67153	45.6
+London	Juan	12/31/2017	Table	3558.139535	20.4
+Los Angeles	Marie	12/31/2017	Bed	16934.4	33.6
+Los Angeles	Marie	12/31/2017	Chair	3679.86755	58.8
+Los Angeles	Marie	12/31/2017	Sofa	10670.4	31.2
+Los Angeles	Marie	12/31/2017	Table	3426.923077	18
+New York	Marie	12/31/2017	Bed	5912.408759	12
+New York	Marie	12/31/2017	Chair	5364.238411	90
+New York	Marie	12/31/2017	Sofa	16329.6	50.4
+New York	Marie	12/31/2017	Table	3530.769231	20.4
+Paris	Juan	12/31/2017	Bed	10028.57143	24
+Paris	Juan	12/31/2017	Chair	5093.617021	84
+Paris	Juan	12/31/2017	Sofa	10256.11511	39.6
+Paris	Juan	12/31/2017	Table	2901.492537	14.4
+London	Juan	09/30/2017	Bed	13968.25397	22
+London	Juan	09/30/2017	Chair	5305.970149	79
+London	Juan	09/30/2017	Sofa	8175.182482	32
+London	Juan	09/30/2017	Table	3294.573643	17
+Los Angeles	Marie	09/30/2017	Bed	14560	26
+Los Angeles	Marie	09/30/2017	Chair	1112.582781	16
+Los Angeles	Marie	09/30/2017	Sofa	9120	24
+Los Angeles	Marie	09/30/2017	Table	3596.153846	17
+New York	Marie	09/30/2017	Bed	3284.671533	6
+New York	Marie	09/30/2017	Chair	5364.238411	81
+New York	Marie	09/30/2017	Sofa	21240	59
+New York	Marie	09/30/2017	Table	3269.230769	17
+Paris	Juan	09/30/2017	Bed	6964.285714	15
+Paris	Juan	09/30/2017	Chair	5524.822695	82
+Paris	Juan	09/30/2017	Sofa	5179.856115	18
+Paris	Juan	09/30/2017	Table	2238.80597	10
+London	Juan	10/31/2017	Bed	5714.285714	9
+London	Juan	10/31/2017	Chair	6380.597015	95
+London	Juan	10/31/2017	Sofa	6897.810219	27
+London	Juan	10/31/2017	Table	3488.372093	18
+Los Angeles	Marie	10/31/2017	Bed	15680	28
+Los Angeles	Marie	10/31/2017	Chair	2781.456954	40
+Los Angeles	Marie	10/31/2017	Sofa	8740	23
+Los Angeles	Marie	10/31/2017	Table	2326.923077	11
+New York	Marie	10/31/2017	Bed	3832.116788	7
+New York	Marie	10/31/2017	Chair	5496.688742	83
+New York	Marie	10/31/2017	Sofa	17640	49
+New York	Marie	10/31/2017	Table	2692.307692	14
+Paris	Juan	10/31/2017	Bed	7892.857143	17
+Paris	Juan	10/31/2017	Chair	6198.58156	92
+Paris	Juan	10/31/2017	Sofa	14964.02878	52
+Paris	Juan	10/31/2017	Table	2238.80597	10
+London	Juan	11/30/2017	Bed	5079.365079	8
+London	Juan	11/30/2017	Chair	2485.074627	37
+London	Juan	11/30/2017	Sofa	13540.14599	53
+London	Juan	11/30/2017	Table	3100.775194	16
+Los Angeles	Marie	11/30/2017	Bed	16800	30
+Los Angeles	Marie	11/30/2017	Chair	6258.278146	90
+Los Angeles	Marie	11/30/2017	Sofa	11400	30
+Los Angeles	Marie	11/30/2017	Table	3173.076923	15
+New York	Marie	11/30/2017	Bed	8759.124088	16
+New York	Marie	11/30/2017	Chair	3907.284768	59
+New York	Marie	11/30/2017	Sofa	6120	17
+New York	Marie	11/30/2017	Table	3461.538462	18
+Paris	Juan	11/30/2017	Bed	12071.42857	26
+Paris	Juan	11/30/2017	Chair	2425.531915	36
+Paris	Juan	11/30/2017	Sofa	8345.323741	29
+Paris	Juan	11/30/2017	Table	3134.328358	14
