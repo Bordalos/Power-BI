@@ -1,5 +1,6 @@
-# Power-BI-series
-Repository for Power BI Series files
+=== BORDALOS - POWER BI REPO ===
+
+Repository for Power BI Series tutorial + post files
 
 Hi folks,
 Here you can find the files related to Bordalos.com Power BI Series  
